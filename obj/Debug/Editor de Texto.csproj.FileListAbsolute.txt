@@ -1,0 +1,10 @@
+C:\Users\Mimi\source\repos\Editor de Texto\bin\Debug\Editor de Texto.exe.config
+C:\Users\Mimi\source\repos\Editor de Texto\bin\Debug\Editor de Texto.exe
+C:\Users\Mimi\source\repos\Editor de Texto\bin\Debug\Editor de Texto.pdb
+C:\Users\Mimi\source\repos\Editor de Texto\obj\Debug\Editor de Texto.csproj.AssemblyReference.cache
+C:\Users\Mimi\source\repos\Editor de Texto\obj\Debug\Editor_de_Texto.F_Principal.resources
+C:\Users\Mimi\source\repos\Editor de Texto\obj\Debug\Editor_de_Texto.Properties.Resources.resources
+C:\Users\Mimi\source\repos\Editor de Texto\obj\Debug\Editor de Texto.csproj.GenerateResource.cache
+C:\Users\Mimi\source\repos\Editor de Texto\obj\Debug\Editor de Texto.csproj.CoreCompileInputs.cache
+C:\Users\Mimi\source\repos\Editor de Texto\obj\Debug\Editor de Texto.exe
+C:\Users\Mimi\source\repos\Editor de Texto\obj\Debug\Editor de Texto.pdb
